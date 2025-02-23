@@ -1,5 +1,5 @@
 # Pattern-Recognition-Machine-Learning
- Project for the winter semester of 2025 for the class of "Pattern Recognition &amp; Machine Learning" in ECE AUTh.
+## Project for the winter semester of 2025 for the class of "Pattern Recognition &amp; Machine Learning" in ECE AUTh.
 
 Thema A: Estimation of parameters using Maximum Likelihood Estimation (theoritical and scikit learn implementation).
 
